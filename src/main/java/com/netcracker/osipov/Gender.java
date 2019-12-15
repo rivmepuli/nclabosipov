@@ -1,4 +1,4 @@
 package com.netcracker.osipov;
 
-public class Gender {
+public enum Gender {
 }
