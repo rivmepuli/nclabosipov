@@ -1,5 +1,5 @@
 package com.netcracker.osipov;
 
-public class Request {
-    
+public class Repository {
+
 }
